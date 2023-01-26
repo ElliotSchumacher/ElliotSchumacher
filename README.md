@@ -4,7 +4,7 @@
 
 ---
 ## About Me
-My name is **Elliot Schumacher** and I am a recent graduate of the University of Washington (UW) where I  studies *geographic information systems* and *web developement* . While at the UW, I helped found a coding club called the Husky Coding Project. I am **currently looking for an entry-level software engineer position**.
+My name is **Elliot Schumacher** and I am a recent graduate of the University of Washington (UW) where I  studied *geographic information systems* and *web developement*. While at the UW, I helped found a coding club called the Husky Coding Project. I am **currently looking for an entry-level software engineer position**.
 
 ---
 
